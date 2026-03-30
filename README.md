@@ -36,10 +36,10 @@ Pada modul ini digunakan dataset **FuelConsumptionCo2** untuk menganalisis hubun
 ### 📷 Hasil Visualisasi
 
 * Scatter Plot Awal
-  ![Scatter Plot](scatter.png)
+  ![Scatter Plot](visualisasi-hubungan.png)
 
 * Scatter Plot + Garis Regresi
-  ![Regresi Linear](scatter-red-line.png)
+  ![Regresi Linear](scatter.png)
 
 ### 📖 Penjelasan
 
